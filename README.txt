@@ -1,0 +1,1 @@
+This example shows how to get a individual back stack for each tab for a TabHost/TabWidget using Fragments 
